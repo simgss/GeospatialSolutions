@@ -87,3 +87,11 @@ button:focus-visible {
   border-radius: 4px;
   box-shadow: 0 1px 5px rgba(0,0,0,0.4);
 }
+.zoom-indicator {
+  background: white;
+  padding: 6px 8px;
+  border-radius: 4px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+  font-size: 12px;
+  z-index: 1000;
+}
